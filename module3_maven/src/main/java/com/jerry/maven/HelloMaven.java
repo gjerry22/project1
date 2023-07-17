@@ -10,6 +10,7 @@ package com.jerry.maven;
  */
 public class HelloMaven {
     public String hello(String message) {
+        System.out.println("Hi, Git!");
         return message;
     }
 }
