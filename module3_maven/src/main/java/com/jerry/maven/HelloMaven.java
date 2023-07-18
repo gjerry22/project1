@@ -11,7 +11,7 @@ package com.jerry.maven;
 public class HelloMaven {
     public String hello(String message) {
         System.out.println("Hi, Git!");
-        System.out.println("Hi,gitee!");
+        System.out.println("Hi, gitee!");
         return message;
     }
 }
